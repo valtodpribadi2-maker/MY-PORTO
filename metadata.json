@@ -1,0 +1,6 @@
+{
+  "name": "Uti Iffat Portfolio",
+  "description": "A highly interactive Neo-Brutalist portfolio inspired by the Saweria aesthetic, featuring a real-time custom sound alerts and text-to-speech guestbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
