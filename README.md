@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://graph.org/file/57e167d50319ec4f26feb-71220d5d60eaed9355.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
+# deskripsi website portfolio
 
 🌟 Deskripsi Website Portfolio: utiiffat.dev
 
